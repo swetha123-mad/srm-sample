@@ -1,0 +1,1 @@
+var json_line_3 = {"type":"FeatureCollection","name":"line_3","crs":{"type":"name","properties":{"name":"urn:ogc:def:crs:OGC:1.3:CRS84"}},"features":[{"type":"Feature","properties":{"id":"1"},"geometry":{"type":"MultiLineString","coordinates":[[[80.507149140647059,16.464352753191012],[80.50852705363701,16.464357150573299]]]}}]}
